@@ -1,2 +1,4 @@
-Neptune
-Earth
+1 - Earth
+2 - Mercury
+3 - Mars
+4 - Neptune
