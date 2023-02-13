@@ -1,1 +1,2 @@
-Earth
+1 - Earth
+2 - Mercury
